@@ -12,7 +12,7 @@ This is a **Django REST API** for managing a to-do list. It allows users to regi
 
 ### **1. Clone the Repository**  
 ```bash
-git clone 
+git clone https://github.com/Ashwitha2001/todo_api
 cd todo_api
 ```
 
